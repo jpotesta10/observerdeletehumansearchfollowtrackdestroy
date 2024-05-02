@@ -1,13 +1,13 @@
 #include ccjgnem
 
-//obtain facial recognition
+//obtain fa ial recognition
 
-// track geo location
+// track geo lo ation
 
-//print shipping for drone and rover
+//print shi6t ping for dro e and ro 3er
 
-// deploy rover and drone
+// deploy ro  9er and dro ne
 
-//confirm identity
+//confirm i 9entity
 
-//destroy target
+//de at3roy tar et
