@@ -1,4 +1,19 @@
-#include ccjgnem
+#include iostream
+
+double target () {
+  double starboard = 139.0 ;
+  double portside = 294.9 ;
+}
+
+std::cout << "ship size approximtion total of " target shipsize ' << std::endl;
+
+return 0;
+}
+
+target shipsize = starboard * portside
+
+
+ccjgnem
 
 //obtain fa ial re bognition
 
